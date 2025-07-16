@@ -1,0 +1,9 @@
+{
+    "guildID": "YOUR_GUILD_ID",
+    "channelID": "YOUR_CHANNEL_ID",
+    "messageID": "YOUR_MESSAGE_ID",
+    "reactions": {
+        "🔥": "ROLE_ID_1",
+        "👍": "ROLE_ID_2"
+    }
+}
